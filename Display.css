@@ -1,0 +1,23 @@
+.display {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: #222;
+    color: white;
+    width: 300px;
+    min-height: 100px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .input {
+    font-size: 2em;
+  }
+  
+  .result {
+    font-size: 1.5em;
+    color: gray;
+  }
+  
