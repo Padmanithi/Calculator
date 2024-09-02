@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![calculator outlook](https://github.com/user-attachments/assets/91b1f9c1-32e5-4f23-a610-bb1ce2e30391)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
